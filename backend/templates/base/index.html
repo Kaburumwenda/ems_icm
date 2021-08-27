@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include 'base/head.html'%}
+    <style>
+      #body-content{
+        height: 80vh;
+        overflow-y: auto;
+      }
+      @media only screen and (max-width: 768px){
+        #body-content{
+        height: auto;
+        overflow-y: auto;
+      }
+      }
+    </style>
+  </head>
+  <body class="skin-blue">
+    <div class="wrapper">
+      
+      {% include 'base/topnav.html'%}
+
+      <!-- Left side column. contains the logo and sidebar -->
+      <aside class="main-sidebar">
+       {% include 'base/sidebar.html'%}
+      </aside>
+
+      <!-- Right side column. Contains the navbar and content of the page -->
+      <div class="content-wrapper" id="body-content">
+       {% block content %}{% endblock %}
+      </div>
+      <!-- /.content-wrapper -->
+
+
+      <footer class="main-footer">
+       {% include 'base/footer.html'%}
+     </footer>
+    </div><!-- ./wrapper -->
+   {% include 'base/script.html'%}
+   
+   {% load sweetify %}
+    {% sweetify %}
+  </body>
+</html>

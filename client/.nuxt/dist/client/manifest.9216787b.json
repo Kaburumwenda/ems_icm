@@ -1,0 +1,10 @@
+{
+  "name": "scutum_admin_vuejs",
+  "short_name": "scutum_admin_vuejs",
+  "description": "Scutum Admin Template (Vue.js version)",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}

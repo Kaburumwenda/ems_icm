@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Category",
+    "path": "/Category",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_b5e6386c"
+  },
+  {
+    "name": "form",
+    "path": "/form",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/form.vue",
+    "chunkName": "pages/form",
+    "_name": "_16603670"
+  },
+  {
+    "name": "table",
+    "path": "/table",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/table.vue",
+    "chunkName": "pages/table",
+    "_name": "_543bfe5c"
+  },
+  {
+    "name": "accounts-login",
+    "path": "/accounts/login",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/accounts/login.vue",
+    "chunkName": "pages/accounts/login",
+    "_name": "_c4ad62a8"
+  },
+  {
+    "name": "admin-country",
+    "path": "/admin/country",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/country.vue",
+    "chunkName": "pages/admin/country",
+    "_name": "_c19ca44c"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/dashboard.vue",
+    "chunkName": "pages/admin/dashboard",
+    "_name": "_11aa96d8"
+  },
+  {
+    "name": "admin-department",
+    "path": "/admin/department",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/department.vue",
+    "chunkName": "pages/admin/department",
+    "_name": "_21f30ebe"
+  },
+  {
+    "name": "admin-employee",
+    "path": "/admin/employee",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/employee.vue",
+    "chunkName": "pages/admin/employee",
+    "_name": "_eb5dedcc"
+  },
+  {
+    "name": "admin-employmentType",
+    "path": "/admin/employmentType",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/employmentType.vue",
+    "chunkName": "pages/admin/employmentType",
+    "_name": "_29b90e9c"
+  },
+  {
+    "name": "admin-gender",
+    "path": "/admin/gender",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/gender.vue",
+    "chunkName": "pages/admin/gender",
+    "_name": "_3f1d0ea6"
+  },
+  {
+    "name": "admin-identification",
+    "path": "/admin/identification",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/identification.vue",
+    "chunkName": "pages/admin/identification",
+    "_name": "_15dfd44c"
+  },
+  {
+    "name": "admin-referee",
+    "path": "/admin/referee",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/referee.vue",
+    "chunkName": "pages/admin/referee",
+    "_name": "_14914b38"
+  },
+  {
+    "name": "admin-relationshipStatus",
+    "path": "/admin/relationshipStatus",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/relationshipStatus.vue",
+    "chunkName": "pages/admin/relationshipStatus",
+    "_name": "_31efb894"
+  },
+  {
+    "name": "admin-section",
+    "path": "/admin/section",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/section.vue",
+    "chunkName": "pages/admin/section",
+    "_name": "_197795a9"
+  },
+  {
+    "name": "admin-statutory",
+    "path": "/admin/statutory",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/statutory.vue",
+    "chunkName": "pages/admin/statutory",
+    "_name": "_f1c57a32"
+  },
+  {
+    "name": "admin-workHistory",
+    "path": "/admin/workHistory",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/workHistory.vue",
+    "chunkName": "pages/admin/workHistory",
+    "_name": "_c6185bf2"
+  },
+  {
+    "name": "forms-wizard",
+    "path": "/forms/wizard",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/forms/wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "children": [
+      {
+        "name": "forms-wizard-step1",
+        "path": "step1",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/forms/wizard/step1.vue",
+        "chunkName": "pages/forms/wizard/step1",
+        "_name": "_e3516966"
+      },
+      {
+        "name": "forms-wizard-step2",
+        "path": "step2",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/forms/wizard/step2.vue",
+        "chunkName": "pages/forms/wizard/step2",
+        "_name": "_e3353a64"
+      },
+      {
+        "name": "forms-wizard-step3",
+        "path": "step3",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/forms/wizard/step3.vue",
+        "chunkName": "pages/forms/wizard/step3",
+        "_name": "_e3190b62"
+      }
+    ],
+    "_name": "_597f9177"
+  },
+  {
+    "name": "V1-dataTable",
+    "path": "/V1/dataTable",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/V1/dataTable.vue",
+    "chunkName": "pages/V1/dataTable",
+    "_name": "_728a8f7c"
+  },
+  {
+    "name": "V1-demo",
+    "path": "/V1/demo",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/V1/demo.vue",
+    "chunkName": "pages/V1/demo",
+    "_name": "_47261a5b"
+  },
+  {
+    "name": "V2-accounts",
+    "path": "/V2/accounts",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/V2/accounts.vue",
+    "chunkName": "pages/V2/accounts",
+    "_name": "_15d58f06"
+  },
+  {
+    "name": "V3-events",
+    "path": "/V3/events",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/V3/events.vue",
+    "chunkName": "pages/V3/events",
+    "_name": "_150b3562"
+  },
+  {
+    "name": "admin-forms-wizard",
+    "path": "/admin/forms/wizard",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard.vue",
+    "chunkName": "pages/admin/forms/wizard",
+    "children": [
+      {
+        "name": "admin-forms-wizard-step1",
+        "path": "step1",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard/step1.vue",
+        "chunkName": "pages/admin/forms/wizard/step1",
+        "_name": "_079779e6"
+      },
+      {
+        "name": "admin-forms-wizard-step2",
+        "path": "step2",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard/step2.vue",
+        "chunkName": "pages/admin/forms/wizard/step2",
+        "_name": "_077b4ae4"
+      },
+      {
+        "name": "admin-forms-wizard-step3",
+        "path": "step3",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard/step3.vue",
+        "chunkName": "pages/admin/forms/wizard/step3",
+        "_name": "_075f1be2"
+      },
+      {
+        "name": "admin-forms-wizard-step4",
+        "path": "step4",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard/step4.vue",
+        "chunkName": "pages/admin/forms/wizard/step4",
+        "_name": "_0742ece0"
+      },
+      {
+        "name": "admin-forms-wizard-step5",
+        "path": "step5",
+        "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/forms/wizard/step5.vue",
+        "chunkName": "pages/admin/forms/wizard/step5",
+        "_name": "_0726bdde"
+      }
+    ],
+    "_name": "_613d4d92"
+  },
+  {
+    "name": "admin-wizard-step1",
+    "path": "/admin/wizard/step1",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/admin/wizard/step1.vue",
+    "chunkName": "pages/admin/wizard/step1",
+    "_name": "_61080fa6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/cummings/Projects/Cracker/proXYZ/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1c46cbd6"
+  }
+]
